@@ -1,2 +1,2 @@
-# spotify-reactjs
-Challenge Reactjs - Spotify
+# Clone Spotify Interface 
+Challenge Reactjs - Spotify - Use API Spotify 
